@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<ItemLookupErrorResponse xmlns="http://ecs.amazonaws.com/doc/2005-10-05/"><Error><Code>RequestThrottled</Code><Message>AWS Access Key ID: AKIAJGDUFSRVEGDP7FCA. You are submitting requests too quickly. Please retry your requests at a slower rate.</Message></Error><RequestID>14a47a55-7d3f-474f-9ab0-4f389027c646</RequestID></ItemLookupErrorResponse>

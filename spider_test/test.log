@@ -1,0 +1,38 @@
+2018-09-20 11:27:47,857 INFO    : this is information
+2018-09-20 11:27:47,857 WARNING : this is warning message
+2018-09-20 11:27:47,857 ERROR   : this is error message
+2018-09-20 11:27:47,857 CRITICAL: this is fatal message, it is same as logger.critical
+2018-09-20 11:27:47,857 CRITICAL: this is critical message
+2018-09-20 11:39:45,322 INFO    : this is information
+2018-09-20 11:39:45,322 WARNING : this is warning message
+2018-09-20 11:39:45,322 ERROR   : this is error message
+2018-09-20 11:39:45,322 CRITICAL: this is fatal message, it is same as logger.critical
+2018-09-20 11:39:45,322 CRITICAL: this is critical message
+2018-09-20 11:40:02,972 ERROR   : this is error message
+2018-09-20 11:40:02,972 CRITICAL: this is fatal message, it is same as logger.critical
+2018-09-20 11:40:02,973 CRITICAL: this is critical message
+2018-09-20 11:41:54,040 ERROR   : this is error message
+2018-09-20 11:41:54,040 CRITICAL: this is fatal message, it is same as logger.critical
+2018-09-20 11:41:54,040 CRITICAL: this is critical message
+2018-09-20 11:41:54,040 ERROR   : name 'jj' is not defined
+2018-09-20 11:44:03,357 DEBUG   : this is debug info
+2018-09-20 11:44:03,357 INFO    : this is information
+2018-09-20 11:44:03,357 WARNING : this is warning message
+2018-09-20 11:44:03,358 ERROR   : this is error message
+2018-09-20 11:44:03,358 CRITICAL: this is fatal message, it is same as logger.critical
+2018-09-20 11:44:03,358 CRITICAL: this is critical message
+2018-09-20 11:44:03,358 ERROR   : name 'jj' is not defined
+2018-09-20 11:44:21,380 ERROR   : name 'jj' is not defined
+2018-09-20 11:44:35,177 ERROR   : name 'jj' is not defined
+2018-09-20 12:00:41,811 ERROR   : name 'jj' is not defined
+2018-09-20 12:04:59,589 INFO    : 11
+2018-09-20 12:04:59,589 ERROR   : name 'jj' is not defined
+2018-09-20 12:05:46,546 ERROR   : 11
+2018-09-20 12:05:46,546 ERROR   : name 'jj' is not defined
+2018-09-20 12:18:47,135 INFO    : 11
+2018-09-20 12:18:47,135 ERROR   : name 'jj' is not defined
+2018-09-20 12:18:51,757 INFO    : 11
+2018-09-20 12:18:51,758 ERROR   : name 'jj' is not defined
+2018-09-20 12:19:08,269 ERROR   : name 'jj' is not defined
+2018-09-20 14:04:41,534 INFO    : 11
+2018-09-20 14:04:41,534 ERROR   : name 'jj' is not defined

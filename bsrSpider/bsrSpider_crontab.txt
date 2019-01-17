@@ -1,0 +1,9 @@
+# 每周六北京时间0点0分启动
+# 启动生产url的脚本
+0 0 * * 6 cd /data1/www/iclogic/python-crawler/tests/bsrSpider && nohup python3 producer.py >> /data1/www/iclogic/python-crawler/tests/bsrSpider/log/pd.log 2>&1 &
+# 启动bsr爬虫的脚本
+5 0 * * 6 cd /data1/www/iclogic/python-crawler/tests/bsrSpider && nohup python3 bsrSpider.py >> /data1/www/iclogic/python-crawler/tests/bsrSpider/log/bsr.log 2>&1 &
+
+
+# 测试脚本
+*/1 * * * * cd /data1/www/iclogic/python-crawler/tests/bsrSpider && nohup python3 test1.py >> /data1/www/iclogic/python-crawler/tests/bsrSpider/test1.log 2>&1 &

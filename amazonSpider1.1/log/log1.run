@@ -1,0 +1,25 @@
+GMT+8:2018-10-23 10:21:49, PID:7639, TID:[140240398556200 Thread-1, LEV:10 DEBUG, MSG:, goods ua: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+GMT+8:2018-10-23 10:25:12, PID:7639, TID:[140240398556200 Thread-1, LEV:40 ERROR, MSG:, [] get_html_useRequest下载 [https://www.amazon.com/dp/B075MBWTK5?th=1&psc=1] 时 [HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.]
+GMT+8:2018-10-23 10:25:12, PID:7639, TID:[140240398556200 Thread-1, LEV:10 DEBUG, MSG:, [e1c205a492c1a8ba] 不存在[NewUrl]中
+GMT+8:2018-10-23 10:25:12, PID:7639, TID:[140240398556200 Thread-1, LEV:10 DEBUG, MSG:, [从urlRobotCheckTimes 读取[e1c205a492c1a8ba]分数失败]
+GMT+8:2018-10-23 10:25:12, PID:7639, TID:[140240398556200 Thread-1, LEV:10 DEBUG, MSG:, [从goodsfail 读取[B075MBWTK5]分数成功]
+GMT+8:2018-10-23 10:25:12, PID:7639, TID:[140240398556200 Thread-1, LEV:10 DEBUG, MSG:, [B075MBWTK5]写入[goodsfail]成功
+GMT+8:2018-10-23 10:25:12, TID:140240398556200 Thread-1, MSG:, , B075MBWTK5, goods, 2018-10-22 19:21:49, 2018-10-22 19:25:12, 203.58606576919556, 6, get Html error
+[redis连接成功 MyRedis<ConnectionPool<Connection<host=127.0.0.1,port=6379,db=6>>>]
+[redis连接成功 MyRedis<ConnectionPool<Connection<host=127.0.0.1,port=6379,db=6>>>]
+url type:  goods
+1 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SE 2.X MetaSr 1.0; SE 2.X MetaSr 1.0; .NET CLR 2.0.50727; SE 2.X MetaSr 1.0)
+/home/xusu/Desktop/amazonSpider1.1/Spider/conf/UAPOND.json
+2 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+
+goodsCookie:  None
+goods referer: https://www.amazon.com
+[ip ] 工作中... [https://www.amazon.com/dp/B075MBWTK5?th=1&psc=1]
+goods_url:  https://www.amazon.com/dp/B075MBWTK5?th=1&psc=1
+{'https': 'https://intechannel:xPahemoXHG@cld-us-dxig.tp-ns.com:80/', 'http': 'http://intechannel:xPahemoXHG@cld-us-dxig.tp-ns.com:80/'}
+
+headers:  {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Accept-Language': 'en-US,en;q=0.5', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'Referer': 'https://www.amazon.com', 'Accept-Encoding': 'gzip, deflate, br', 'Host': 'www.amazon.com', 'Connection': 'close'}
+这是HTML
+the_url_is_discard.asin_or_kw:  B075MBWTK5
+url_RobotChek_times 0
+url_disabled_times 1

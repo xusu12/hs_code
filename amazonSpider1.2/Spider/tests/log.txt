@@ -1,0 +1,5 @@
+111
+Traceback (most recent call last):
+  File "tt.py", line 2, in <module>
+    print(111/0)
+ZeroDivisionError: division by zero

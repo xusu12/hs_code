@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="248ca84e-d86f-49bf-ab31-1f6e3f58f674" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$thread_test.coverage" NAME="thread_test Coverage Results" MODIFIED="1541056800162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$ty.coverage" NAME="ty Coverage Results" MODIFIED="1541987512442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$rrg_test.coverage" NAME="rrg_test Coverage Results" MODIFIED="1540367231653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$save_data_to_product_info.coverage" NAME="save_data_to_product_info Coverage Results" MODIFIED="1540297813712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$look_data.coverage" NAME="look_data Coverage Results" MODIFIED="1540196685220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/Script" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$parse.coverage" NAME="parse Coverage Results" MODIFIED="1541750227559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/xml" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$parse1.coverage" NAME="parse1 Coverage Results" MODIFIED="1541750517780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/xml" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$not_found_data.coverage" NAME="not_found_data Coverage Results" MODIFIED="1540203755487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$test.coverage" NAME="test Coverage Results" MODIFIED="1541054358118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$not_found_grade.coverage" NAME="not_found_grade Coverage Results" MODIFIED="1540710379156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$class_test.coverage" NAME="class_test Coverage Results" MODIFIED="1541137453218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$plugin.coverage" NAME="plugin Coverage Results" MODIFIED="1540208180881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/Crawler" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$get_grade.coverage" NAME="get_grade Coverage Results" MODIFIED="1540256570791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$del_html.coverage" NAME="del_html Coverage Results" MODIFIED="1541574025805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$brand.coverage" NAME="brand Coverage Results" MODIFIED="1540878536669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$brand_is_none.coverage" NAME="brand_is_none Coverage Results" MODIFIED="1540873314113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$rr.coverage" NAME="rr Coverage Results" MODIFIED="1541672276889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$ua.coverage" NAME="ua Coverage Results" MODIFIED="1540714445620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$productParse.coverage" NAME="productParse Coverage Results" MODIFIED="1541729719789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$get_brand_category.coverage" NAME="get_brand_category Coverage Results" MODIFIED="1540289136895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$spo_test.coverage" NAME="spo_test Coverage Results" MODIFIED="1540537858713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$test_get.coverage" NAME="test_get Coverage Results" MODIFIED="1542160900367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$goodsDataOutput.coverage" NAME="goodsDataOutput Coverage Results" MODIFIED="1540197366233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/Crawler" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$goodsParser.coverage" NAME="goodsParser Coverage Results" MODIFIED="1540173634134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/Crawler" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$keywordParser.coverage" NAME="keywordParser Coverage Results" MODIFIED="1540720783769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/Crawler" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$xtest.coverage" NAME="xtest Coverage Results" MODIFIED="1541726822871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$Downloader.coverage" NAME="Downloader Coverage Results" MODIFIED="1540694706579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/Crawler" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$util.coverage" NAME="util Coverage Results" MODIFIED="1540694124988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/utils" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$tt.coverage" NAME="tt Coverage Results" MODIFIED="1541672180425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$save.coverage" NAME="save Coverage Results" MODIFIED="1540714649408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$gettitle.coverage" NAME="gettitle Coverage Results" MODIFIED="1540721179431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$sname_test.coverage" NAME="sname_test Coverage Results" MODIFIED="1541039678235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1540784147694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+    <SUITE FILE_PATH="coverage/amazonSpider1_1$GetProductCategoriesForASIN.coverage" NAME="GetProductCategoriesForASIN Coverage Results" MODIFIED="1541671868504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spider/tests" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="222678797">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="12" />
+          <entry key="html" value="1" />
+          <entry key="lock" value="1" />
+          <entry key="log" value="9" />
+          <entry key="py" value="38" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="12" />
+          <entry key="HTML" value="1" />
+          <entry key="Log" value="9" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1170" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1167" />
+          <entry key="RegExp" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1552060646">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="7" />
+          <entry key="log" value="2" />
+          <entry key="run" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="7" />
+          <entry key="PLAIN_TEXT" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="177" />
+          <entry key="run" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="177" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="171846927">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.0" value="10" />
+          <entry key="project.open.time.1" value="10" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="35" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1_html" value="3" />
+          <entry key="csv" value="23" />
+          <entry key="html" value="74" />
+          <entry key="json" value="2" />
+          <entry key="log" value="61" />
+          <entry key="py" value="245" />
+          <entry key="pyi" value="3" />
+          <entry key="run" value="1" />
+          <entry key="test_1_html" value="2" />
+          <entry key="txt" value="1" />
+          <entry key="xml" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="23" />
+          <entry key="HTML" value="74" />
+          <entry key="JSON" value="2" />
+          <entry key="Log" value="61" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="245" />
+          <entry key="PythonStub" value="3" />
+          <entry key="XML" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="50" />
+          <entry key="py" value="6831" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="50" />
+          <entry key="Python" value="6831" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/tests/test_get.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/conf/setting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-175">
+              <caret line="37" column="33" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spider/Crawler/plugin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="822">
+              <caret line="208" column="37" selection-start-line="208" selection-start-column="27" selection-end-line="208" selection-end-column="41" />
+              <folding>
+                <element signature="e#210#2075#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13275">
+              <caret line="531" column="25" selection-start-line="531" selection-start-column="25" selection-end-line="531" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spider/Crawler/keywordParser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1200">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>make_page_url</find>
+      <find>get_page_url_list</find>
+      <find>get_page_url</find>
+      <find>get_keyword_html_lsit</find>
+      <find>get_page_num</find>
+      <find>TosellNotFoundParser</find>
+      <find>get_page_html</find>
+      <find>reviews_parser</find>
+      <find>4444444444444</find>
+      <find>get_reviews_html_list.goodsUrl</find>
+      <find>get_reviews_html_list</find>
+      <find>工作中</find>
+      <find>s队列长度</find>
+      <find>reviewsSum</find>
+      <find>url_RobotChek_times</find>
+      <find>print</find>
+      <find>keyword_data_save</find>
+      <find>DataOutput</find>
+      <find>Identifiers</find>
+      <find>ASIN</find>
+      <find>sname</find>
+      <find>Feature</find>
+      <find>Manmade</find>
+      <find>price</find>
+      <find>customize</find>
+      <find>cart_price</find>
+      <find>Customize</find>
+      <find>op</find>
+      <find>ptions</find>
+      <find>title</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/SVN/iclogic/version1.1/amazonSpider1.1/Spider/Crawler/goodsParser.py" />
+        <option value="D:/SVN/iclogic/version1.2/amazonSpider1.2/Spider/Crawler/goodsParser.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/brand_is_none.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/brand.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/1.log" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/plugin.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/keyword.csv" />
+        <option value="D:/SVN/iclogic/version1.1/amazonSpider1.1/Spider/Crawler/plugin.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/sname_test.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/get_not_buyer.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/not_buyer_data.csv" />
+        <option value="D:/SVN/iclogic/version1.1/amazonSpider1.1/Spider/Crawler/reviewsParser.py" />
+        <option value="D:/SVN/iclogic/version1.2/amazonSpider1.2/Spider/Crawler/reviewsParser.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/test_get3.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/test.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/thread_test.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/test_get2.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/class_test.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/tosellParser.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/BaseCrawler.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/keywordCrawler.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/reviewsParser.py" />
+        <option value="$PROJECT_DIR$/Spider/conf/setting.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/reviewsCrawler.py" />
+        <option value="$PROJECT_DIR$/Spider/main/CrawlerWorker.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/DataOutput.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/keywordDataOutput.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/del_html.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/GetProductCategoriesForASIN.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/tt.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/rr.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/product.xml.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/product.xml" />
+        <option value="$PROJECT_DIR$/Spider/tests/xx.xml" />
+        <option value="$PROJECT_DIR$/Spider/tests/xtest.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/productParse.py" />
+        <option value="$PROJECT_DIR$/Spider/xml/productParse.py" />
+        <option value="$PROJECT_DIR$/Spider/xml/Response2.xml" />
+        <option value="$PROJECT_DIR$/Spider/xml/Response3.xml" />
+        <option value="$PROJECT_DIR$/Spider/xml/Response4.xml" />
+        <option value="$PROJECT_DIR$/Spider/xml/product.xml" />
+        <option value="$PROJECT_DIR$/Spider/xml/CML.xml" />
+        <option value="$PROJECT_DIR$/Spider/xml/Response1.xml" />
+        <option value="$PROJECT_DIR$/Spider/xml/Response5.xml" />
+        <option value="$PROJECT_DIR$/Spider/xml/parse.py" />
+        <option value="$PROJECT_DIR$/Spider/xml/parse1.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/goodsParser.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/ty.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/goodsDataOutput.py" />
+        <option value="$PROJECT_DIR$/Spider/Crawler/keywordParser.py" />
+        <option value="$PROJECT_DIR$/Spider/tests/test_get.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="amazonSpider1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="amazonSpider1.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="amazonSpider1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="amazonSpider1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="crontabLog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="amazonSpider1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="amazonSpider1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="amazonSpider1.1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="amazonSpider1.1" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER08\Desktop\程序\amazonSpider1.1\Spider\xml" />
+      <recent name="C:\Users\USER08\Desktop\程序\amazonSpider1.1\Spider\tests" />
+      <recent name="C:\Users\USER08\Desktop\程序\amazonSpider1.1\Spider\Crawler" />
+      <recent name="$PROJECT_DIR$/Spider/tests" />
+      <recent name="C:\Users\USER08\Desktop\amazonSpider1.1\Spider\tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER08\Desktop\程序\amazonSpider1.1\Spider\xml" />
+      <recent name="C:\Users\USER08\Desktop\程序\amazonSpider1.1\Spider\tests" />
+      <recent name="C:\Users\USER08\Desktop\程序\amazonSpider1.1\Spider\tests\db" />
+      <recent name="C:\Users\USER08\Desktop\amazonSpider1.1\Spider\tests" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_get">
+    <configuration name="parse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="amazonSpider1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/xml" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/xml/parse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parse1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="amazonSpider1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/xml" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/xml/parse1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="productParse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="amazonSpider1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER08\Desktop\程序\amazonSpider1.1\Spider\xml\productParse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_get" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="amazonSpider1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/tests/test_get.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="amazonSpider1.1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider/tests/ty.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.productParse" />
+      <item itemvalue="Python.parse" />
+      <item itemvalue="Python.parse1" />
+      <item itemvalue="Python.test_get" />
+      <item itemvalue="Python.ty" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_get" />
+        <item itemvalue="Python.ty" />
+        <item itemvalue="Python.parse1" />
+        <item itemvalue="Python.parse" />
+        <item itemvalue="Python.productParse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="248ca84e-d86f-49bf-ab31-1f6e3f58f674" name="Default Changelist" comment="" />
+      <created>1540172895888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540172895888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11727079" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37527114" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.30477223" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsCrawler.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/BaseCrawler.py</url>
+          <line>474</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/utils/util.py</url>
+          <line>1405</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/keywordParser.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/plugin.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/keywordParser.py</url>
+          <line>329</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/keywordParser.py</url>
+          <line>306</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/keywordParser.py</url>
+          <line>413</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/keywordParser.py</url>
+          <line>539</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/BaseCrawler.py</url>
+          <line>528</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/utils/decorator.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1505</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1579</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/keywordParser.py</url>
+          <line>343</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1514</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1533</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1568</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1633</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1660</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1673</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1712</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1723</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1751</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>1762</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/tests/sname_test.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/tosellParser.py</url>
+          <line>454</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/keywordCrawler.py</url>
+          <line>218</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/keywordCrawler.py</url>
+          <line>187</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/reviewsCrawler.py</url>
+          <line>246</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/reviewsCrawler.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/reviewsCrawler.py</url>
+          <line>264</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/tests/test_get.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>143</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/inventoryAPI.py</url>
+          <line>177</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>309</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>935</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/keywordDataOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="36" column="45" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/reviewsDataOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/tosellCrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/tosellDataOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="41" column="52" lean-forward="true" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/DataOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="213" column="42" selection-start-line="213" selection-start-column="32" selection-end-line="213" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/main/CrawlerWorker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3100">
+          <caret line="124" column="19" lean-forward="true" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/tests/del_html.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="129" column="8" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1652447720/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="2841" column="8" selection-start-line="2841" selection-start-column="8" selection-end-line="2841" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/urllib3/connectionpool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="856" selection-start-line="856" selection-end-line="856" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="104" column="38" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/urllib3/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6525" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/tests/rr.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="788" selection-start-line="788" selection-end-line="788" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/tests/product.xml.py" />
+    <entry file="file://$PROJECT_DIR$/Spider/tests/xx.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/tests/xtest.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/xml/dom/expatbuilder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/xml/B07355585W.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/Response4.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/Response3.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/product.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/Response5.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/Response2.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/B00GOYB2VM.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xmltodict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="329" selection-start-line="329" selection-end-line="329" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/xml/Response1.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/CML.xml" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/parse1.py" />
+    <entry file="file://$PROJECT_DIR$/Spider/tests/GetProductCategoriesForASIN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/xml/productParse.py" />
+    <entry file="file://$PROJECT_DIR$/Spider/xml/parse.py" />
+    <entry file="file://$PROJECT_DIR$/Spider/tests/test_get2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/devtest/save_asin_html/20181109/B01HCD4C74_product_20181109_18_04_55.html" />
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/inventoryAPI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="177" column="16" selection-start-line="177" selection-start-column="7" selection-end-line="177" selection-end-column="16" />
+          <folding>
+            <element signature="e#693#1051#0" />
+            <element signature="e#1096#1558#0" />
+            <element signature="e#1601#2137#0" />
+            <element signature="e#2182#2639#0" />
+            <element signature="e#2694#3374#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/tests/ty.py" />
+    <entry file="file://$PROJECT_DIR$/Spider/tests/sname_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/tests/api_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="44" column="10" lean-forward="true" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/goodsDataOutput.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/goodsCrawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="74" column="54" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/devtest/save_asin_html/20181113/sports_equip_ment_keyword_20181113_17_59_30_1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/devtest/save_asin_html/20181113/sports_equip_ment_keyword_20181113_17_59_30_4.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/devtest/save_asin_html/20181113/iphone_Xth_keyword_20181113_18_02_13_1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/tests/test_get.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/goodsParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13275">
+          <caret line="531" column="25" selection-start-line="531" selection-start-column="25" selection-end-line="531" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/keywordParser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/conf/IpPond.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/conf/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="37" column="33" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider/Crawler/plugin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="208" column="37" selection-start-line="208" selection-start-column="27" selection-end-line="208" selection-end-column="41" />
+          <folding>
+            <element signature="e#210#2075#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

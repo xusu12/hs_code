@@ -1,0 +1,597 @@
+<?xml version="1.0" ?>
+<ItemLookupResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="python-requests/2.18.4"></Header>
+        </HTTPHeaders>
+        <RequestId>046a8e94-e152-46ce-8703-d9e1525a57fc</RequestId>
+        <Arguments>
+            <Argument Name="AWSAccessKeyId" Value="AKIAJGDUFSRVEGDP7FCA"></Argument>
+            <Argument Name="AssociateTag" Value="zhanghong-20"></Argument>
+            <Argument Name="Condition" Value="All"></Argument>
+            <Argument Name="IdType" Value="ASIN"></Argument>
+            <Argument Name="ItemId" Value="B0748284L5"></Argument>
+            <Argument Name="Operation" Value="ItemLookup"></Argument>
+            <Argument Name="ResponseGroup"
+                      Value="Accessories,AlternateVersions,BrowseNodes,EditorialReview,Images,ItemAttributes,ItemIds,Large,Medium,OfferFull,OfferListings,Offers,OfferSummary,PromotionSummary,Reviews,SalesRank,Similarities,Small,Tracks,Variations,VariationImages,VariationMatrix,VariationOffers,VariationSummary"></Argument>
+            <Argument Name="Service" Value="AWSECommerceService"></Argument>
+            <Argument Name="Timestamp" Value="2018-11-13T17:59:53.000Z"></Argument>
+            <Argument Name="Signature" Value="xmMIWNsCd1aYJt0Ga5tJvbnca++1bFOZVFHWGJZWTDk="></Argument>
+        </Arguments>
+        <RequestProcessingTime>0.1042497840000000</RequestProcessingTime>
+    </OperationRequest>
+    <Items>
+        <Request>
+            <IsValid>True</IsValid>
+            <ItemLookupRequest>
+                <Condition>All</Condition>
+                <IdType>ASIN</IdType>
+                <ItemId>B0748284L5</ItemId>
+                <ResponseGroup>Accessories</ResponseGroup>
+                <ResponseGroup>AlternateVersions</ResponseGroup>
+                <ResponseGroup>BrowseNodes</ResponseGroup>
+                <ResponseGroup>EditorialReview</ResponseGroup>
+                <ResponseGroup>Images</ResponseGroup>
+                <ResponseGroup>ItemAttributes</ResponseGroup>
+                <ResponseGroup>ItemIds</ResponseGroup>
+                <ResponseGroup>Large</ResponseGroup>
+                <ResponseGroup>Medium</ResponseGroup>
+                <ResponseGroup>OfferFull</ResponseGroup>
+                <ResponseGroup>OfferListings</ResponseGroup>
+                <ResponseGroup>Offers</ResponseGroup>
+                <ResponseGroup>OfferSummary</ResponseGroup>
+                <ResponseGroup>PromotionSummary</ResponseGroup>
+                <ResponseGroup>Reviews</ResponseGroup>
+                <ResponseGroup>SalesRank</ResponseGroup>
+                <ResponseGroup>Similarities</ResponseGroup>
+                <ResponseGroup>Small</ResponseGroup>
+                <ResponseGroup>Tracks</ResponseGroup>
+                <ResponseGroup>Variations</ResponseGroup>
+                <ResponseGroup>VariationImages</ResponseGroup>
+                <ResponseGroup>VariationMatrix</ResponseGroup>
+                <ResponseGroup>VariationOffers</ResponseGroup>
+                <ResponseGroup>VariationSummary</ResponseGroup>
+                <VariationPage>All</VariationPage>
+            </ItemLookupRequest>
+        </Request>
+        <Item>
+            <ASIN>B0748284L5</ASIN>
+            <ParentASIN>B07CQ4592S</ParentASIN>
+            <DetailPageURL>https://www.amazon.com/Enso-Womens-Braided-Silicone-White/dp/B0748284L5?psc=1&amp;SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B0748284L5</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Enso-Womens-Braided-Silicone-White/dp/tech-data/B0748284L5?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0748284L5
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B0748284L5&amp;SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0748284L5</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B0748284L5&amp;SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0748284L5</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B0748284L5&amp;SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0748284L5</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>https://www.amazon.com/gp/pdp/taf/B0748284L5?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0748284L5</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>https://www.amazon.com/review/product/B0748284L5?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0748284L5</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>https://www.amazon.com/gp/offer-listing/B0748284L5?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0748284L5</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SalesRank>1928</SalesRank>
+            <SmallImage>
+                <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">75</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">160</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">500</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="swatch">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/01GGVRFB0oL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/01GGVRFB0oL._SL75_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/01GGVRFB0oL._SL75_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/01GGVRFB0oL._SL110_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/01GGVRFB0oL._SL160_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/01GGVRFB0oL.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-irhEPL6L._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-irhEPL6L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-irhEPL6L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-irhEPL6L._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-irhEPL6L._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-irhEPL6L.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/61lFC-W013L._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/61lFC-W013L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/61lFC-W013L._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/61lFC-W013L._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/61lFC-W013L._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/61lFC-W013L.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-aSMPUleL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-aSMPUleL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-aSMPUleL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-aSMPUleL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-aSMPUleL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51-aSMPUleL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51G-vjWRpZL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51G-vjWRpZL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51G-vjWRpZL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51G-vjWRpZL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51G-vjWRpZL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/51G-vjWRpZL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/513YGJs4qmL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/513YGJs4qmL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/513YGJs4qmL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/513YGJs4qmL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/513YGJs4qmL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/513YGJs4qmL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/31JsVBb0trL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Misc.</Binding>
+                <Brand>Enso Rings</Brand>
+                <Color>White</Color>
+                <Department>unisex-adult</Department>
+                <EAN>0702921794289</EAN>
+                <EANList>
+                    <EANListElement>0702921794289</EANListElement>
+                </EANList>
+                <Feature>This stackable ring is perfect to mix and match your favorite colors. Sport a unique look every
+                    day!
+                </Feature>
+                <Feature>A ring that fits your lifestyle. Perfect for working out, playing sports, hiking, working or
+                    anything else that may harm your expensive traditional wedding ring. Never worry about taking off
+                    your wedding ring before an activity ever again!
+                </Feature>
+                <Feature>Small, low profile and lightweight. You will barely be able to tell the ring is there</Feature>
+                <Feature>Made from a premium, hypoallergenic, medical grade silicone</Feature>
+                <Feature>Amazon's exchange policy provides quick and seamless exchanges (should you require a different
+                    size). LIFETIME REPLACEMENT WARRANTY
+                </Feature>
+                <IsMemorabilia>0</IsMemorabilia>
+                <Label>Enso Rings</Label>
+                <ListPrice>
+                    <Amount>1199</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$11.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Enso Rings</Manufacturer>
+                <Model>ST-BR-SiliconeRing-WH-7</Model>
+                <MPN>ST-BR-SiliconeRing-WH-7</MPN>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">4</Height>
+                    <Length Units="hundredths-inches">299</Length>
+                    <Weight Units="Hundredths Pounds">4</Weight>
+                    <Width Units="hundredths-inches">299</Width>
+                </PackageDimensions>
+                <PartNumber>ST-BR-SiliconeRing-WH-7</PartNumber>
+                <ProductGroup>Jewelry</ProductGroup>
+                <ProductTypeName>SPORTING_GOODS</ProductTypeName>
+                <Publisher>Enso Rings</Publisher>
+                <Size>7</Size>
+                <Studio>Enso Rings</Studio>
+                <Title>Enso Womens Braided Silicone Ring White Size: 7</Title>
+                <UPC>702921794289</UPC>
+                <UPCList>
+                    <UPCListElement>702921794289</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>1199</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$11.99</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>1</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B0748284L5?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B0748284L5</MoreOffersUrl>
+                <Offer>
+                    <Merchant>
+                        <Name>Enso Rings</Name>
+                    </Merchant>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            6ZX8JeBMU47T3uO%2FqqUWJJV0gwN76HuYWKSUn988z4mBNAfZ6yXjnKhowkkEmmtPfnrRBaICiKg4EqkbbNtDzbHTpiyZ3XWPUgZOzrG2Cx0HENRBT2J1d1s0vyvE544odH96qNyj3ql9PWOZ2RAResAZ1ewL0BSF
+                        </OfferListingId>
+                        <Price>
+                            <Amount>1199</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$11.99</FormattedPrice>
+                        </Price>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                    <Promotions>
+                        <Promotion>
+                            <Summary>
+                                <PromotionId>A1X28M78GDNC0Y</PromotionId>
+                                <Category>BuyQuantityXGetPercentOffX</Category>
+                                <EligibilityRequirementDescription>Save 15% with this coupon.
+                                </EligibilityRequirementDescription>
+                                <BenefitDescription>Save 15% with this coupon.</BenefitDescription>
+                                <TermsAndConditions>&lt;strong&gt;To receive the Best Value discount:&lt;/strong&gt;
+                                    &lt;ol&gt;&lt;li&gt;Add all products described in the promotion to your Shopping
+                                    Cart in one of two ways:&lt;/li&gt;
+                                    &lt;ul&gt;&lt;li&gt;Via the “Add both to Cart” button in the promotion description,
+                                    OR&lt;/li&gt;
+                                    &lt;li&gt;Via the “Add to Shopping Cart” button on each respective product
+                                    information page.&lt;/li&gt;
+                                    &lt;/ul&gt;
+                                    &lt;li&gt;The amount of the Best Value discount will be reflected on the final order
+                                    checkout page and will be allocated proportionally to all promotion items in the
+                                    Shopping Cart, including the Best Value item itself. For example, if the promotion
+                                    offers $5 off one item worth $10 when you purchase two qualifying items worth $20
+                                    each, the $5 will be divided proportionately between the three items, so that the
+                                    Best Value item will appear with a $1 discount, and each of the two other qualifying
+                                    items will appear with a $2 discount.&lt;/li&gt;
+                                    &lt;/ol&gt;&lt;strong&gt;Terms and Conditions:&lt;/strong&gt; &lt;ul&gt;
+                                    &lt;li&gt;The promotion is valid for a limited time only. Amazon reserves the right
+                                    to cancel it at any time.&lt;/li&gt;
+                                    &lt;li&gt;If you do not purchase the qualifying and Best Value items added to your
+                                    Shopping Cart when the promotion is in effect, the discount will not apply.&lt;/li&gt;
+                                    &lt;li&gt;The promotion applies only to qualifying items displaying the offer
+                                    message on their product information pages.&lt;/li&gt;
+                                    &lt;li&gt;The promotion applies only to products sold by the seller indicated in the
+                                    offer message. It does not apply to the same products sold by other sellers. For
+                                    example, if the promotion applies to cookware offered by Amazon.com, the same
+                                    cookware offered by other sellers on the Amazon.com website (e.g. Macy’s, etc.) do
+                                    not qualify.&lt;/li&gt;
+                                    &lt;li&gt;Unless the promotion indicates otherwise, it applies to the lowest priced
+                                    qualifying item and may not be combined with other offers.&lt;/li&gt;
+                                    &lt;li&gt;All qualifying and Best Value items must be purchased in one order and
+                                    shipped to a single address.&lt;/li&gt;
+                                    &lt;li&gt;If you return any of the promotion items, we will subtract your Best Value
+                                    discount from your return credit.&lt;/li&gt;
+                                    &lt;li&gt;Shipping and handling charges apply to all products, including Best Value
+                                    items.&lt;/li&gt;
+                                    &lt;li&gt;Add-on Items require a minimum purchase. See amazon.com/addon for details.&lt;/li&gt;
+                                    &lt;li&gt;This promotion may not be combined with other offers, including
+                                    promotional certificates.&lt;/li&gt;
+                                    &lt;li&gt;Does not apply to orders placed with 1-Click.&lt;/li&gt;
+                                    &lt;li&gt;Offer good while supplies last.&lt;/li&gt;
+                                    &lt;li&gt;Void where prohibited.&lt;/li&gt;
+                                    &lt;li&gt;If you remove any of the promotion items from your Shopping Cart or
+                                    violate any of the Terms and Conditions, the promotion will be invalid, and the
+                                    discount will not apply.&lt;/li&gt;
+                                    &lt;/ul&gt;
+                                </TermsAndConditions>
+                            </Summary>
+                        </Promotion>
+                    </Promotions>
+                </Offer>
+            </Offers>
+            <CustomerReviews>
+                <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAJGDUFSRVEGDP7FCA&amp;alinkCode=xm2&amp;asin=B0748284L5&amp;atag=zhanghong-20&amp;exp=2018-11-14T17%3A58%3A28Z&amp;v=2&amp;sig=75JB5Byq7dPMkMhSaozTfbmpAWIU8fhCOKKZTBO71kc%253D</IFrameURL>
+                <HasReviews>true</HasReviews>
+            </CustomerReviews>
+            <EditorialReviews>
+                <EditorialReview>
+                    <Source>Product Description</Source>
+                    <Content>Enso Stackable Silicone Rings are the perfect way to express your unique personality. They
+                        work great as an accent to our Infinity Rings, or you can mix and match as many as you want to
+                        create fun color combinations. The possibilities are endless! As with all of our rings, the
+                        Stackables are made with high quality silicone and feature our Anti Ring Avulsion Technology. We
+                        can't wait to see what combinations you'll come up with!
+                    </Content>
+                    <IsLinkSuppressed>0</IsLinkSuppressed>
+                </EditorialReview>
+            </EditorialReviews>
+            <SimilarProducts>
+                <SimilarProduct>
+                    <ASIN>B071HWLRJZ</ASIN>
+                    <Title>Enso Rings Pyramid Stackable Silicone Ring | The Premium Fashion Forward Silicone Ring |
+                        Hypoallergenic Medical Grade Silicone | Lifetime Quality Guarantee | Commit to What You Love
+                    </Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B073HKD8W9</ASIN>
+                    <Title>Enso Rings Hammered Stackable Silicone Ring | Premium Fashion Forward Silicone Ring |
+                        Hypoallergenic Medical Grade Silicone | Lifetime Quality Guarantee | Commit to What You Love
+                    </Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B07BHZFLTJ</ASIN>
+                    <Title>Enso Rings Women's &amp; Men's Ultralite Silicone Ring, The Premium Fashion Forward Silicone
+                        Ring, Hypoallergenic Medical Grade Silicone, Lifetime Quality Guarantee
+                    </Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B0779M3M7M</ASIN>
+                    <Title>Enso Rings Column Stackable Silicone Ring | Premium Fashion Forward Silicone Ring | Stack
+                        Styles | Hypoallergenic Medical Grade Silicone | Lifetime
+                    </Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B07GDTXDKG</ASIN>
+                    <Title>Enso Rings Thin Legend Silicone Ring - Made in The USA - Ultra Comfortable, Breathable Safe -
+                        Award Winning Customer Service
+                    </Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B07J17JQXW</ASIN>
+                    <Title>Enso Rings Beaded Silicone Ring | Premium Fashion Forward Silicone Ring | Hypoallergenic
+                        Medical Grade Silicone | Lifetime Quality Guarantee | Commit to What You Love
+                    </Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B0764NCLMD</ASIN>
+                    <Title>Enso Rings Thin Elements Silicone Ring | Handmade in The USA | The Premium Fashion Forward
+                        Silicone Ring | Infused with Precious Metals &amp; Timeless Luxury | Lifetime Quality Guarantee
+                    </Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B07D1T9SG3</ASIN>
+                    <Title>Honor Eternity Ring Men's Silicone Ring Wedding Band</Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B0788BNVYS</ASIN>
+                    <Title>QALO Women's Functional Silicone Rings with Ring Storage Pouch, Thin Stackable Collection
+                    </Title>
+                </SimilarProduct>
+                <SimilarProduct>
+                    <ASIN>B01F2E0UFI</ASIN>
+                    <Title>Enso Rings Women's Infinity Silicone Ring | The Premium Fashion Forward Silicone Ring |
+                        Hypoallergenic Medical Grade Silicone | Lifetime Quality Guarantee | Commit to What You Love
+                    </Title>
+                </SimilarProduct>
+            </SimilarProducts>
+            <BrowseNodes>
+                <BrowseNode>
+                    <BrowseNodeId>3407931</BrowseNodeId>
+                    <Name>Exercise Bands</Name>
+                    <Ancestors>
+                        <BrowseNode>
+                            <BrowseNodeId>3407891</BrowseNodeId>
+                            <Name>Accessories</Name>
+                            <Ancestors>
+                                <BrowseNode>
+                                    <BrowseNodeId>3407731</BrowseNodeId>
+                                    <Name>Exercise &amp; Fitness</Name>
+                                    <Ancestors>
+                                        <BrowseNode>
+                                            <BrowseNodeId>10971181011</BrowseNodeId>
+                                            <Name>Sports &amp; Fitness</Name>
+                                            <Ancestors>
+                                                <BrowseNode>
+                                                    <BrowseNodeId>3375301</BrowseNodeId>
+                                                    <Name>Categories</Name>
+                                                    <IsCategoryRoot>1</IsCategoryRoot>
+                                                    <Ancestors>
+                                                        <BrowseNode>
+                                                            <BrowseNodeId>3375251</BrowseNodeId>
+                                                            <Name>Sports &amp; Outdoors</Name>
+                                                        </BrowseNode>
+                                                    </Ancestors>
+                                                </BrowseNode>
+                                            </Ancestors>
+                                        </BrowseNode>
+                                    </Ancestors>
+                                </BrowseNode>
+                            </Ancestors>
+                        </BrowseNode>
+                    </Ancestors>
+                </BrowseNode>
+            </BrowseNodes>
+        </Item>
+    </Items>
+</ItemLookupResponse>

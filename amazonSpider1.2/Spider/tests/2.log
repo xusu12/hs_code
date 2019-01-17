@@ -1,0 +1,45 @@
+C:\Users\USER08\AppData\Local\Programs\Python\Python36\python.exe C:/Users/USER08/Desktop/程序/amazonSpider1.2/Spider/Crawler/tosellDataOutput.py
+tosellDataOutput
+掠过info.log
+
+tosell_save init
+
+GMT+8:2018-11-12 18:33:23, PID:3544, TID:[2758884569312 MainThread, LEV:10 DEBUG, MSG:, 从[tosellData]中获取[(b'tosellData', b'\x80\x03}q\x00X\n\x00\x00\x00B01F0QQN8Qq\x01}q\x02(X\x04\x00\x00\x00asinq\x03h\x01X\x02\x00\x00\x00snq\x04K\x00X\x06\x00\x00\x00fba_snq\x05K\x00X\x04\x00\x00\x00plowq\x06J\xff\xff\xff\xffX\x05\x00\x00\x00plowsq\x07X\x00\x00\x00\x00q\x08X\x08\x00\x00\x00plows_idq\th\x08X\n\x00\x00\x00getinfo_tmq\n\x8a\x06d\n{\x07g\x01X\x05\x00\x00\x00snameq\x0bX\t\x00\x00\x00Gemschestq\x0cX\t\x00\x00\x00seller_idq\rX\x0e\x00\x00\x00A1XEMYOCVN4TN8q\x0eu]q\x0f\x86q\x10s.')]成功
+{'B01F0QQN8Q': ({'asin': 'B01F0QQN8Q',
+                 'fba_sn': 0,
+                 'getinfo_tm': 1542018763364,
+                 'plow': -1,
+                 'plows': '',
+                 'plows_id': '',
+                 'seller_id': 'A1XEMYOCVN4TN8',
+                 'sn': 0,
+                 'sname': 'Gemschest'},
+                [])}
+掠过info.log
+(1542018803, 970142)
+1542018803.970142
+{'asin': 'B01F0QQN8Q',
+ 'fba_sn': 0,
+ 'getinfo_tm': 1542018763364,
+ 'plow': -1,
+ 'plows': '',
+ 'plows_id': '',
+ 'seller_id': 'A1XEMYOCVN4TN8',
+ 'sn': 0,
+ 'sname': 'Gemschest'}
+[]
+1542018763364 1
+1542018803970 2
+111111112222222 update public.amazon_product_data_tosell set sn=%(sn)s, fba_sn=%(fba_sn)s,plow=%(plow)s, plows=%(plows)s, plows_id=%(plows_id)s, getinfo_tm=%(getinfo_tm)s, sname=%(sname)s,seller_id=%(seller_id)s, is_sync=0, crawler_state=1 where asin=%(asin)s; {'asin': 'B01F0QQN8Q', 'sn': 0, 'fba_sn': 0, 'plow': -1, 'plows': '', 'plows_id': '', 'getinfo_tm': 1542018803970, 'sname': 'Gemschest', 'seller_id': 'A1XEMYOCVN4TN8'}
+GMT+8:2018-11-12 18:33:24, PID:3544, TID:[2758884569312 MainThread, LEV:10 DEBUG, MSG:, [isOK]写入[dbSumTimes]成功
+row 1
+掠过info.log
+GMT+8:2018-11-12 18:33:24, PID:3544, TID:[2758884569312 MainThread, LEV:10 DEBUG, MSG:, [isOK]写入[dbTimes]成功
+掠过info.log
+(1542018804, 96054)
+1542018804.96054
+GMT+8:2018-11-12 18:33:24, PID:3544, TID:[2758884569312 MainThread, LEV:10 DEBUG, MSG:, [isOK]写入[dbSumTimes]成功
+GMT+8:2018-11-12 18:33:34, PID:3544, TID:[2758884569312 MainThread, LEV:10 DEBUG, MSG:, 从[tosellData]中获取成员超时[timeout=10]
+GMT+8:2018-11-12 18:33:34, TID:2758884569312 MainThread, MSG:, 2018-11-12 02:33:34, tosell线程任务已完成
+
+{}

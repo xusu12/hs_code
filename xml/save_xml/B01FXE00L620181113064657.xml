@@ -1,0 +1,506 @@
+<?xml version="1.0" ?>
+<ItemLookupResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+    <OperationRequest>
+        <HTTPHeaders>
+            <Header Name="UserAgent" Value="python-requests/2.18.4"></Header>
+        </HTTPHeaders>
+        <RequestId>8b60928d-c94c-4185-8f23-a9498ae8b2ce</RequestId>
+        <Arguments>
+            <Argument Name="AWSAccessKeyId" Value="AKIAJGDUFSRVEGDP7FCA"></Argument>
+            <Argument Name="AssociateTag" Value="zhanghong-20"></Argument>
+            <Argument Name="Condition" Value="All"></Argument>
+            <Argument Name="IdType" Value="ASIN"></Argument>
+            <Argument Name="ItemId" Value="B01FXE00L6"></Argument>
+            <Argument Name="Operation" Value="ItemLookup"></Argument>
+            <Argument Name="ResponseGroup"
+                      Value="Accessories,AlternateVersions,BrowseNodes,EditorialReview,Images,ItemAttributes,ItemIds,Large,Medium,OfferFull,OfferListings,Offers,OfferSummary,PromotionSummary,Reviews,SalesRank,Similarities,Small,Tracks,Variations,VariationImages,VariationMatrix,VariationOffers,VariationSummary"></Argument>
+            <Argument Name="Service" Value="AWSECommerceService"></Argument>
+            <Argument Name="Timestamp" Value="2018-11-13T14:46:57.000Z"></Argument>
+            <Argument Name="Signature" Value="lI4Ln8YY9H1Qe1obUUvxGmdZA4lQMl7omjYeN/N98tI="></Argument>
+        </Arguments>
+        <RequestProcessingTime>0.0946008150000000</RequestProcessingTime>
+    </OperationRequest>
+    <Items>
+        <Request>
+            <IsValid>True</IsValid>
+            <ItemLookupRequest>
+                <Condition>All</Condition>
+                <IdType>ASIN</IdType>
+                <ItemId>B01FXE00L6</ItemId>
+                <ResponseGroup>Accessories</ResponseGroup>
+                <ResponseGroup>AlternateVersions</ResponseGroup>
+                <ResponseGroup>BrowseNodes</ResponseGroup>
+                <ResponseGroup>EditorialReview</ResponseGroup>
+                <ResponseGroup>Images</ResponseGroup>
+                <ResponseGroup>ItemAttributes</ResponseGroup>
+                <ResponseGroup>ItemIds</ResponseGroup>
+                <ResponseGroup>Large</ResponseGroup>
+                <ResponseGroup>Medium</ResponseGroup>
+                <ResponseGroup>OfferFull</ResponseGroup>
+                <ResponseGroup>OfferListings</ResponseGroup>
+                <ResponseGroup>Offers</ResponseGroup>
+                <ResponseGroup>OfferSummary</ResponseGroup>
+                <ResponseGroup>PromotionSummary</ResponseGroup>
+                <ResponseGroup>Reviews</ResponseGroup>
+                <ResponseGroup>SalesRank</ResponseGroup>
+                <ResponseGroup>Similarities</ResponseGroup>
+                <ResponseGroup>Small</ResponseGroup>
+                <ResponseGroup>Tracks</ResponseGroup>
+                <ResponseGroup>Variations</ResponseGroup>
+                <ResponseGroup>VariationImages</ResponseGroup>
+                <ResponseGroup>VariationMatrix</ResponseGroup>
+                <ResponseGroup>VariationOffers</ResponseGroup>
+                <ResponseGroup>VariationSummary</ResponseGroup>
+                <VariationPage>All</VariationPage>
+            </ItemLookupRequest>
+        </Request>
+        <Item>
+            <ASIN>B01FXE00L6</ASIN>
+            <ParentASIN>B01FXE00H0</ParentASIN>
+            <DetailPageURL>https://www.amazon.com/Tungsten-Carbide-Celtic-Dragon-Beveled/dp/B01FXE00L6?psc=1&amp;SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=165953&amp;creativeASIN=B01FXE00L6</DetailPageURL>
+            <ItemLinks>
+                <ItemLink>
+                    <Description>Technical Details</Description>
+                    <URL>
+                        https://www.amazon.com/Tungsten-Carbide-Celtic-Dragon-Beveled/dp/tech-data/B01FXE00L6?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01FXE00L6
+                    </URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Baby Registry</Description>
+                    <URL>https://www.amazon.com/gp/registry/baby/add-item.html?asin.0=B01FXE00L6&amp;SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01FXE00L6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wedding Registry</Description>
+                    <URL>https://www.amazon.com/gp/registry/wedding/add-item.html?asin.0=B01FXE00L6&amp;SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01FXE00L6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Add To Wishlist</Description>
+                    <URL>https://www.amazon.com/gp/registry/wishlist/add-item.html?asin.0=B01FXE00L6&amp;SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01FXE00L6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>Tell A Friend</Description>
+                    <URL>https://www.amazon.com/gp/pdp/taf/B01FXE00L6?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01FXE00L6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Customer Reviews</Description>
+                    <URL>https://www.amazon.com/review/product/B01FXE00L6?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01FXE00L6</URL>
+                </ItemLink>
+                <ItemLink>
+                    <Description>All Offers</Description>
+                    <URL>https://www.amazon.com/gp/offer-listing/B01FXE00L6?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01FXE00L6</URL>
+                </ItemLink>
+            </ItemLinks>
+            <SalesRank>1206130</SalesRank>
+            <SmallImage>
+                <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL._SL75_.jpg</URL>
+                <Height Units="pixels">75</Height>
+                <Width Units="pixels">62</Width>
+            </SmallImage>
+            <MediumImage>
+                <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL._SL160_.jpg</URL>
+                <Height Units="pixels">160</Height>
+                <Width Units="pixels">131</Width>
+            </MediumImage>
+            <LargeImage>
+                <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL.jpg</URL>
+                <Height Units="pixels">500</Height>
+                <Width Units="pixels">410</Width>
+            </LargeImage>
+            <ImageSets>
+                <ImageSet Category="variant">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41YOsRZqVWL._SL30_.jpg</URL>
+                        <Height Units="pixels">22</Height>
+                        <Width Units="pixels">30</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41YOsRZqVWL._SL75_.jpg</URL>
+                        <Height Units="pixels">56</Height>
+                        <Width Units="pixels">75</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41YOsRZqVWL._SL75_.jpg</URL>
+                        <Height Units="pixels">56</Height>
+                        <Width Units="pixels">75</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41YOsRZqVWL._SL110_.jpg</URL>
+                        <Height Units="pixels">82</Height>
+                        <Width Units="pixels">110</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41YOsRZqVWL._SL160_.jpg</URL>
+                        <Height Units="pixels">119</Height>
+                        <Width Units="pixels">160</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41YOsRZqVWL.jpg</URL>
+                        <Height Units="pixels">371</Height>
+                        <Width Units="pixels">500</Width>
+                    </LargeImage>
+                </ImageSet>
+                <ImageSet Category="primary">
+                    <SwatchImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL._SL30_.jpg</URL>
+                        <Height Units="pixels">30</Height>
+                        <Width Units="pixels">25</Width>
+                    </SwatchImage>
+                    <SmallImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">62</Width>
+                    </SmallImage>
+                    <ThumbnailImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL._SL75_.jpg</URL>
+                        <Height Units="pixels">75</Height>
+                        <Width Units="pixels">62</Width>
+                    </ThumbnailImage>
+                    <TinyImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL._SL110_.jpg</URL>
+                        <Height Units="pixels">110</Height>
+                        <Width Units="pixels">90</Width>
+                    </TinyImage>
+                    <MediumImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL._SL160_.jpg</URL>
+                        <Height Units="pixels">160</Height>
+                        <Width Units="pixels">131</Width>
+                    </MediumImage>
+                    <LargeImage>
+                        <URL>https://images-na.ssl-images-amazon.com/images/I/41-d5voBX%2BL.jpg</URL>
+                        <Height Units="pixels">500</Height>
+                        <Width Units="pixels">410</Width>
+                    </LargeImage>
+                </ImageSet>
+            </ImageSets>
+            <ItemAttributes>
+                <Binding>Jewelry</Binding>
+                <Brand>Making up</Brand>
+                <Color>Black,Silver,Royal Blue</Color>
+                <Department>mens</Department>
+                <EAN>0718460894243</EAN>
+                <EANList>
+                    <EANListElement>0718460894243</EANListElement>
+                </EANList>
+                <Feature>silver celtic dagon royal blue carbon fiber inlaid tungsten ring</Feature>
+                <Feature>black tungsten carbide steel band</Feature>
+                <Feature>flat top with beveled edge</Feature>
+                <Feature>Width:8mm,weight:about 10g</Feature>
+                <Feature>men's women's wedding engagement band</Feature>
+                <ItemDimensions>
+                    <Weight Units="Hundredths Pounds">2</Weight>
+                </ItemDimensions>
+                <Label>Forever</Label>
+                <ListPrice>
+                    <Amount>1599</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$15.99</FormattedPrice>
+                </ListPrice>
+                <Manufacturer>Forever</Manufacturer>
+                <Model>20160520003</Model>
+                <MPN>20160520003</MPN>
+                <PackageDimensions>
+                    <Height Units="hundredths-inches">31</Height>
+                    <Length Units="hundredths-inches">236</Length>
+                    <Weight Units="Hundredths Pounds">2</Weight>
+                    <Width Units="hundredths-inches">157</Width>
+                </PackageDimensions>
+                <PartNumber>20160520003</PartNumber>
+                <ProductGroup>Jewelry</ProductGroup>
+                <ProductTypeName>TOYS_AND_GAMES</ProductTypeName>
+                <Publisher>Forever</Publisher>
+                <Studio>Forever</Studio>
+                <Title>Black Tungsten Carbide Ring Band Irish Celtic Knot Dragon Beveled Edge Ring</Title>
+                <UPC>718460894243</UPC>
+                <UPCList>
+                    <UPCListElement>718460894243</UPCListElement>
+                </UPCList>
+            </ItemAttributes>
+            <OfferSummary>
+                <LowestNewPrice>
+                    <Amount>1599</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                    <FormattedPrice>$15.99</FormattedPrice>
+                </LowestNewPrice>
+                <TotalNew>1</TotalNew>
+                <TotalUsed>0</TotalUsed>
+                <TotalCollectible>0</TotalCollectible>
+                <TotalRefurbished>0</TotalRefurbished>
+            </OfferSummary>
+            <Offers>
+                <TotalOffers>1</TotalOffers>
+                <TotalOfferPages>1</TotalOfferPages>
+                <MoreOffersUrl>https://www.amazon.com/gp/offer-listing/B01FXE00L6?SubscriptionId=AKIAJGDUFSRVEGDP7FCA&amp;tag=zhanghong-20&amp;linkCode=xm2&amp;camp=2025&amp;creative=386001&amp;creativeASIN=B01FXE00L6</MoreOffersUrl>
+                <Offer>
+                    <Merchant>
+                        <Name>Making up</Name>
+                    </Merchant>
+                    <OfferAttributes>
+                        <Condition>New</Condition>
+                    </OfferAttributes>
+                    <OfferListing>
+                        <OfferListingId>
+                            0pZXsbAlAa54FN0Kg6iFg%2FLsYQA2GhTTXFFRRpVu80fYFLx4v%2BZEps4VJDb%2B%2Btla5N8SKvXFW5R6y%2BNt0fgvl%2FGrmz9dMIlVQbfJnvdIMKlyhIWDns6eNeA%2FzxC4qsI35g2hmKq5GZnbkW0Wi3j2RWze4Hrv%2B3kg
+                        </OfferListingId>
+                        <Price>
+                            <Amount>1599</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                            <FormattedPrice>$15.99</FormattedPrice>
+                        </Price>
+                        <Availability>Usually ships in 24 hours</Availability>
+                        <AvailabilityAttributes>
+                            <AvailabilityType>now</AvailabilityType>
+                            <MinimumHours>0</MinimumHours>
+                            <MaximumHours>0</MaximumHours>
+                        </AvailabilityAttributes>
+                        <IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+                        <IsEligibleForPrime>1</IsEligibleForPrime>
+                    </OfferListing>
+                </Offer>
+            </Offers>
+            <CustomerReviews>
+                <IFrameURL>https://www.amazon.com/reviews/iframe?akid=AKIAJGDUFSRVEGDP7FCA&amp;alinkCode=xm2&amp;asin=B01FXE00L6&amp;atag=zhanghong-20&amp;exp=2018-11-14T14%3A45%3A32Z&amp;v=2&amp;sig=bWZGkAstAWmb6ZiPIMxKDuv2tWGkB0CwjjsOwPcHzRg%253D</IFrameURL>
+                <HasReviews>false</HasReviews>
+            </CustomerReviews>
+            <EditorialReviews>
+                <EditorialReview>
+                    <Source>Product Description</Source>
+                    <Content>silver celtic dragon and blue carbon fiber inlaid ring&lt;br&gt; Genuine tungsten
+                        carbide,durable,hpoallergenic and scratch resistant.&lt;br&gt; &lt;br&gt;Thickness:
+                        2.0mm~3.0mm,or customized.free lettering service for non fba products.&lt;br&gt; &lt;br&gt;Great
+                        workmanship on brushed matte surface and high polish smooth inner face&lt;br&gt; &lt;br&gt;Perfect
+                        8mm width, suitable for both Men and Women&lt;br&gt; &lt;br&gt;Suitable for wedding, engagement,
+                        anniversary, christmas, valentine's day, homecoming, thanksgiving day, dating, banquet, church,
+                        dinner, cocktail, evening.&lt;br&gt;
+                    </Content>
+                    <IsLinkSuppressed>0</IsLinkSuppressed>
+                </EditorialReview>
+            </EditorialReviews>
+            <BrowseNodes>
+                <BrowseNode>
+                    <BrowseNodeId>7192394011</BrowseNodeId>
+                    <Name>Jewelry</Name>
+                    <Children>
+                        <BrowseNode>
+                            <BrowseNodeId>7454897011</BrowseNodeId>
+                            <Name>Anklets</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>7454898011</BrowseNodeId>
+                            <Name>Bracelets</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>7454907011</BrowseNodeId>
+                            <Name>Brooches &amp; Pins</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>7454917011</BrowseNodeId>
+                            <Name>Earrings</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>7454926011</BrowseNodeId>
+                            <Name>Jewelry Sets</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>7454927011</BrowseNodeId>
+                            <Name>Necklaces</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>7454939011</BrowseNodeId>
+                            <Name>Rings</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>9539894011</BrowseNodeId>
+                            <Name>Wedding &amp; Engagement</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>14252013011</BrowseNodeId>
+                            <Name>Smart Jewelry</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>17880313011</BrowseNodeId>
+                            <Name>Body Jewelry</Name>
+                        </BrowseNode>
+                    </Children>
+                    <Ancestors>
+                        <BrowseNode>
+                            <BrowseNodeId>7147440011</BrowseNodeId>
+                            <Name>Women</Name>
+                            <Ancestors>
+                                <BrowseNode>
+                                    <BrowseNodeId>7141124011</BrowseNodeId>
+                                    <Name>Departments</Name>
+                                    <IsCategoryRoot>1</IsCategoryRoot>
+                                    <Ancestors>
+                                        <BrowseNode>
+                                            <BrowseNodeId>7141123011</BrowseNodeId>
+                                            <Name>Clothing, Shoes &amp; Jewelry</Name>
+                                        </BrowseNode>
+                                    </Ancestors>
+                                </BrowseNode>
+                            </Ancestors>
+                        </BrowseNode>
+                    </Ancestors>
+                </BrowseNode>
+                <BrowseNode>
+                    <BrowseNodeId>3887881</BrowseNodeId>
+                    <Name>Jewelry</Name>
+                    <Children>
+                        <BrowseNode>
+                            <BrowseNodeId>3888081</BrowseNodeId>
+                            <Name>Bracelets</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3888131</BrowseNodeId>
+                            <Name>Cuff Links</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3888141</BrowseNodeId>
+                            <Name>Earrings</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3888121</BrowseNodeId>
+                            <Name>Necklaces</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3888171</BrowseNodeId>
+                            <Name>Rings</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3888381</BrowseNodeId>
+                            <Name>Shirt Studs</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3888391</BrowseNodeId>
+                            <Name>Tie Clips</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3888411</BrowseNodeId>
+                            <Name>Tie Pins</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>9539904011</BrowseNodeId>
+                            <Name>Wedding Rings</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>17880327011</BrowseNodeId>
+                            <Name>Body Jewelry</Name>
+                        </BrowseNode>
+                    </Children>
+                    <Ancestors>
+                        <BrowseNode>
+                            <BrowseNodeId>7147441011</BrowseNodeId>
+                            <Name>Men</Name>
+                            <Ancestors>
+                                <BrowseNode>
+                                    <BrowseNodeId>7141124011</BrowseNodeId>
+                                    <Name>Departments</Name>
+                                    <IsCategoryRoot>1</IsCategoryRoot>
+                                    <Ancestors>
+                                        <BrowseNode>
+                                            <BrowseNodeId>7141123011</BrowseNodeId>
+                                            <Name>Clothing, Shoes &amp; Jewelry</Name>
+                                        </BrowseNode>
+                                    </Ancestors>
+                                </BrowseNode>
+                            </Ancestors>
+                        </BrowseNode>
+                    </Ancestors>
+                </BrowseNode>
+                <BrowseNode>
+                    <BrowseNodeId>3880961</BrowseNodeId>
+                    <Name>Jewelry</Name>
+                    <Children>
+                        <BrowseNode>
+                            <BrowseNodeId>3881481</BrowseNodeId>
+                            <Name>Anklets</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3881461</BrowseNodeId>
+                            <Name>Bracelets</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3881551</BrowseNodeId>
+                            <Name>Brooches &amp; Pins</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3881621</BrowseNodeId>
+                            <Name>Earrings</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3881811</BrowseNodeId>
+                            <Name>Necklaces &amp; Pendants</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3881961</BrowseNodeId>
+                            <Name>Rings</Name>
+                        </BrowseNode>
+                    </Children>
+                    <Ancestors>
+                        <BrowseNode>
+                            <BrowseNodeId>7147442011</BrowseNodeId>
+                            <Name>Girls</Name>
+                            <Ancestors>
+                                <BrowseNode>
+                                    <BrowseNodeId>7141124011</BrowseNodeId>
+                                    <Name>Departments</Name>
+                                    <IsCategoryRoot>1</IsCategoryRoot>
+                                    <Ancestors>
+                                        <BrowseNode>
+                                            <BrowseNodeId>7141123011</BrowseNodeId>
+                                            <Name>Clothing, Shoes &amp; Jewelry</Name>
+                                        </BrowseNode>
+                                    </Ancestors>
+                                </BrowseNode>
+                            </Ancestors>
+                        </BrowseNode>
+                    </Ancestors>
+                </BrowseNode>
+                <BrowseNode>
+                    <BrowseNodeId>3880611</BrowseNodeId>
+                    <Name>Jewelry</Name>
+                    <Children>
+                        <BrowseNode>
+                            <BrowseNodeId>3880801</BrowseNodeId>
+                            <Name>Bracelets</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3880841</BrowseNodeId>
+                            <Name>Necklaces</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3880851</BrowseNodeId>
+                            <Name>Cuff Links</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3880891</BrowseNodeId>
+                            <Name>Rings</Name>
+                        </BrowseNode>
+                        <BrowseNode>
+                            <BrowseNodeId>3880921</BrowseNodeId>
+                            <Name>Tie Clips</Name>
+                        </BrowseNode>
+                    </Children>
+                    <Ancestors>
+                        <BrowseNode>
+                            <BrowseNodeId>7147443011</BrowseNodeId>
+                            <Name>Boys</Name>
+                            <Ancestors>
+                                <BrowseNode>
+                                    <BrowseNodeId>7141124011</BrowseNodeId>
+                                    <Name>Departments</Name>
+                                    <IsCategoryRoot>1</IsCategoryRoot>
+                                    <Ancestors>
+                                        <BrowseNode>
+                                            <BrowseNodeId>7141123011</BrowseNodeId>
+                                            <Name>Clothing, Shoes &amp; Jewelry</Name>
+                                        </BrowseNode>
+                                    </Ancestors>
+                                </BrowseNode>
+                            </Ancestors>
+                        </BrowseNode>
+                    </Ancestors>
+                </BrowseNode>
+            </BrowseNodes>
+        </Item>
+    </Items>
+</ItemLookupResponse>

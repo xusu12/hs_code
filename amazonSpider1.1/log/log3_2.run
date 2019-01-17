@@ -1,0 +1,25 @@
+GMT+8:2018-10-23 11:56:06, PID:8814, TID:[139836288044072 Thread-1, LEV:10 DEBUG, MSG:, goods ua: Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/22.0
+GMT+8:2018-10-23 11:59:40, PID:8814, TID:[139836288044072 Thread-1, LEV:40 ERROR, MSG:, [] get_html_useRequest下载 [https://www.amazon.com/dp/B06XTWFBQH?th=1&psc=1] 时 [HTTPSConnectionPool(host='www.amazon.com', port=443): Read timed out.]
+GMT+8:2018-10-23 11:59:40, PID:8814, TID:[139836288044072 Thread-1, LEV:10 DEBUG, MSG:, [311380d96918ab4b] 不存在[NewUrl]中
+GMT+8:2018-10-23 11:59:40, PID:8814, TID:[139836288044072 Thread-1, LEV:10 DEBUG, MSG:, [从urlRobotCheckTimes 读取[311380d96918ab4b]分数失败]
+GMT+8:2018-10-23 11:59:40, PID:8814, TID:[139836288044072 Thread-1, LEV:10 DEBUG, MSG:, [从goodsfail 读取[B06XTWFBQH]分数成功]
+GMT+8:2018-10-23 11:59:40, PID:8814, TID:[139836288044072 Thread-1, LEV:10 DEBUG, MSG:, [B06XTWFBQH]写入[goodsfail]成功
+GMT+8:2018-10-23 11:59:40, TID:139836288044072 Thread-1, MSG:, , B06XTWFBQH, goods, 2018-10-22 20:56:06, 2018-10-22 20:59:40, 213.94626379013062, 6, get Html error
+[redis连接成功 MyRedis<ConnectionPool<Connection<host=127.0.0.1,port=6379,db=6>>>]
+[redis连接成功 MyRedis<ConnectionPool<Connection<host=127.0.0.1,port=6379,db=6>>>]
+url type:  goods
+1 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; TencentTraveler 4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1))
+/home/xusu/Desktop/amazonSpider1.1/Spider/conf/UAPOND.json
+2 Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/22.0
+
+goodsCookie:  None
+goods referer: https://www.amazon.com
+[ip ] 工作中... [https://www.amazon.com/dp/B06XTWFBQH?th=1&psc=1]
+goods_url:  https://www.amazon.com/dp/B06XTWFBQH?th=1&psc=1
+{'http': 'http://intechannel:xPahemoXHG@cld-us-dxig.tp-ns.com:80/', 'https': 'https://intechannel:xPahemoXHG@cld-us-dxig.tp-ns.com:80/'}
+
+headers:  {'Referer': 'https://www.amazon.com', 'Host': 'www.amazon.com', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'Accept-Language': 'en-US,en;q=0.5', 'Cache-Control': 'max-age=0', 'Accept-Encoding': 'gzip, deflate, br', 'Upgrade-Insecure-Requests': '1', 'User-Agent': 'Mozilla/5.0 (Windows NT 6.2; rv:22.0) Gecko/20130405 Firefox/22.0', 'Connection': 'close'}
+这是HTML
+the_url_is_discard.asin_or_kw:  B06XTWFBQH
+url_RobotChek_times 0
+url_disabled_times 1
