@@ -22,7 +22,7 @@ Pillow==5.1.0
 prompt-toolkit==1.0.15
 psycopg2==2.7.4
 pytz==2018.4
-Pygments==2.2.0
+Pygments==2.7.4
 redis==2.10.6
 requests==2.18.4
 scipy==1.0.1
